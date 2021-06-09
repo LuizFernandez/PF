@@ -1,0 +1,7 @@
+cao 
+gato
+loja
+pessoa
+aula
+trabalho
+win
